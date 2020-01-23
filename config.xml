@@ -150,12 +150,13 @@
     <plugin name="cordova-plugin-camera" spec="4.1.0" />
     <plugin name="cordova-plugin-customurlscheme" spec="4.4.0">
         <variable name="URL_SCHEME" value="moodlemobile" />
+        
     </plugin>
 
     <plugin name="cordova-plugin-device" spec="2.0.3" />
     <plugin name="cordova-plugin-file" spec="6.0.2" />
 
-    
+
 
     <plugin name="cordova-plugin-geolocation" spec="4.0.2">
         <variable name="GEOLOCATION_USAGE_DESCRIPTION" value="We need your location so you can attach it as part of your submissions." />
