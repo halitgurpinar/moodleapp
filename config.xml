@@ -155,7 +155,6 @@
     <plugin name="cordova-plugin-device" spec="2.0.3" />
     <plugin name="cordova-plugin-file" spec="6.0.2" />
 
-    <plugin name="cordova-plugin-file-opener2" spec="2.2.1" />
     
 
     <plugin name="cordova-plugin-geolocation" spec="4.0.2">
