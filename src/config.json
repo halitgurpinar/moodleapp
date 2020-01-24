@@ -1,7 +1,7 @@
 {
-    "app_id": "com.akso.moodle",
-    "appname": "AKSO Moodle ",
-    "desktopappname": "AKSO Moodle Masaüstü",
+    "app_id": "com.acso.moodle",
+    "appname": "ACSO Moodle ",
+    "desktopappname": "ACSO Moodle Masaüstü",
     "versioncode": 1100,
     "versionname": "1.0.0",
     "cache_update_frequency_usually": 420000,
@@ -62,9 +62,9 @@
         75.89,
         93.75
     ],
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "ACSO",
     "siteurl": "https://webonline.cankaya.edu.tr/",
-    "sitename": "SONO",
+    "sitename": "ACSO",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
