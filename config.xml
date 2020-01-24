@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0.0' encoding='utf-8'?>
 <widget id="com.akso.moodle" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>AKSO Moodle</name>
     <description>AKSO official app</description>
@@ -149,7 +149,7 @@
     <plugin name="cordova-plugin-badge" spec="0.8.8" />
     <plugin name="cordova-plugin-camera" spec="4.1.0" />
     <plugin name="cordova-plugin-customurlscheme" spec="4.4.0">
-        <variable name="URL_SCHEME" value="moodlemobile" />
+        <variable name="URL_SCHEME" value="AKSO" />
     </plugin>
     <plugin name="cordova-plugin-device" spec="2.0.3" />
     <plugin name="cordova-plugin-file" spec="6.0.2" />
